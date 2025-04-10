@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst
 ------------
 
-I have completed my master’s in business administration. Over the years, I've had the opportunity to work across diverse industries, including hospitality, sales and marketing, and administration, and even spent some time as a business analyst. Throughout these experiences, I developed a strong interest in IT and data, and I’m now looking to make a career shift into the field of data analysis. My unique blend of industry knowledge and analytical skills positions me well to bring valuable insights and drive data-informed decisions. I’m eager to apply my passion for data and problem-solving in a dynamic data analyst role, and I'm excited to contribute to an organization's success through data-driven strategies."
+I have completed my master’s in Business Administration. Over the years, I've had the opportunity to work across diverse industries, including hospitality, sales and marketing, and administration, and even spent some time as a business analyst. Throughout these experiences, I developed a strong interest in IT and data, and I’m now looking to make a career shift into the field of data analysis. My unique blend of industry knowledge and analytical skills positions me well to bring valuable insights and drive data-informed decisions. I’m eager to apply my passion for data and problem-solving in a dynamic data analyst role, and I'm excited to contribute to an organization's success through data-driven strategies."
 
 *   🌍  I'm based in Buckinghamshire, England
 *   ✉️  You can contact me at [anuchandrasekar16@gmail.com](mailto:anuchandrasekar16@gmail.com)
